@@ -13,11 +13,11 @@ There are 4 datasets:
 | `birthday`   | A character's birthday                           |
 | `occupation` | List of character's known occupation             |
 | `img`        | Character's image                                |
-| `status`     | Are they alive (or did Heisenberg get to them??) |
+| `status`     | Are they alive (or did Heisenberg get to them?) |
 | `nickname`   | A known nickname they are referred as            |
 | `appearance` | List of seasons that the character appeared in   |
 | `portrayed`  | The actor / actress that portrayed the character |
-| `category`   | Series that the character is involved with.      |
+| `category`   | Series that the character is involved with      |
 
 ---
 
