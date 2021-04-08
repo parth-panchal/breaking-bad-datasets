@@ -4,7 +4,7 @@ This repository consists of datasets which contain data from the Breaking Bad Un
 
 There are 4 datasets:
 
-1.**Characters**
+## 1.**Characters**
 
 | Attribute  | Description                                      |
 |------------|--------------------------------------------------|
@@ -21,7 +21,7 @@ There are 4 datasets:
 
 ---
 
-2. ## **Episodes**
+## 2. **Episodes**
 
 | Attribute  | Description                                          |
 |------------|------------------------------------------------------|
@@ -35,7 +35,7 @@ There are 4 datasets:
 
 ---
 
-3.**Quotes**
+## 3.**Quotes**
 
 | Attribute | Description                      |
 |-----------|----------------------------------|
@@ -46,7 +46,7 @@ There are 4 datasets:
 
 ---
 
-4.**Deaths**
+## 4.**Deaths**
 
 | Attribute        | Description                                            |
 |------------------|--------------------------------------------------------|
