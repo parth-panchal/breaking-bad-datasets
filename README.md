@@ -8,7 +8,7 @@ There are 4 datasets:
 
 | Attribute  | Description                                      |
 |------------|--------------------------------------------------|
-| id         | Unique Id per character                          |
+| `id`         | Unique Id per character                          |
 | name       | A character's full name                          |
 | birthday   | A character's birthday                           |
 | occupation | List of character's known occupation             |
