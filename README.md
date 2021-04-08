@@ -61,4 +61,4 @@ There are 4 datasets:
 
 ---
 
-Feel free to add any missing data, just create an issue or a pull-request either on this repository or even Tim's.
+Feel free to add any missing data, just create an issue or a pull-request either on this repository or  [Tim's](https://github.com/timbiles/Breaking-Bad--API).
