@@ -1,6 +1,6 @@
 # Breaking Bad Datasets
 
-This repository consists of datasets which contain data from the Breaking Bad Universe (Breaking Bad + Better Call Saul) created by Vince Gilligan. The files have been created using data fetched from the *[Breaking Bad API](https://www.breakingbadapi.com/)* created by [Tim Biles](https://github.com/timbiles/Breaking-Bad--API). I did this activity as part of learning and exploring the basics of how APIs work. The script I used for carrying out the process can be found in this repository.
+This repository consists of datasets that contain data from the Breaking Bad Universe (Breaking Bad + Better Call Saul) created by Vince Gilligan. The files have been created using data fetched from the *[Breaking Bad API](https://www.breakingbadapi.com/)* created by [Tim Biles](https://github.com/timbiles/Breaking-Bad--API). I did this activity as part of learning and exploring the basics of how APIs work. The script I used for carrying out the process can be found in this repository.
 
 There are 4 datasets:
 
