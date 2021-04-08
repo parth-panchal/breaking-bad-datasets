@@ -19,6 +19,8 @@ There are 4 datasets:
 | portrayed  | The actor / actress that portrayed the character |
 | category   | Series that the character is involved with.      |
 
+---
+
 2.**Episodes**
 
 | Attribute  | Description                                          |
@@ -31,6 +33,8 @@ There are 4 datasets:
 | characters | Main characters that are associated with the episode |
 | series     | Series that the episode belongs to                   |
 
+---
+
 3.**Quotes**
 
 | Attribute | Description                      |
@@ -39,6 +43,8 @@ There are 4 datasets:
 | quote     | The quote itself                 |
 | author    | The originator of the quote      |
 | series    | The series the quote was told in |
+
+---
 
 4.**Deaths**
 
