@@ -9,15 +9,15 @@ There are 4 datasets:
 | Attribute  | Description                                      |
 |------------|--------------------------------------------------|
 | `id`         | Unique Id per character                          |
-| name       | A character's full name                          |
-| birthday   | A character's birthday                           |
-| occupation | List of character's known occupation             |
-| img        | Character's image                                |
-| status     | Are they alive (or did Heisenberg get to them??) |
-| nickname   | A known nickname they are referred as            |
-| appearance | List of seasons that the character appeared in   |
-| portrayed  | The actor / actress that portrayed the character |
-| category   | Series that the character is involved with.      |
+| `name`       | A character's full name                          |
+| `birthday`   | A character's birthday                           |
+| `occupation` | List of character's known occupation             |
+| `img`        | Character's image                                |
+| `status`     | Are they alive (or did Heisenberg get to them??) |
+| `nickname`   | A known nickname they are referred as            |
+| `appearance` | List of seasons that the character appeared in   |
+| `portrayed`  | The actor / actress that portrayed the character |
+| `category`   | Series that the character is involved with.      |
 
 ---
 
@@ -25,13 +25,13 @@ There are 4 datasets:
 
 | Attribute  | Description                                          |
 |------------|------------------------------------------------------|
-| id         | Unique ID per episode                                |
-| title      | Title of the episode                                 |
-| season     | Season that the episode belongs to                   |
-| episode    | Episode number of it's season                        |
-| air_date   |  Original air date of the episode                    |
-| characters | Main characters that are associated with the episode |
-| series     | Series that the episode belongs to                   |
+| `id`         | Unique ID per episode                                |
+| `title`      | Title of the episode                                 |
+| `season`     | Season that the episode belongs to                   |
+| `episode`    | Episode number of it's season                        |
+| `air_date`   |  Original air date of the episode                    |
+| `characters` | Main characters that are associated with the episode |
+| `series`     | Series that the episode belongs to                   |
 
 ---
 
@@ -39,10 +39,10 @@ There are 4 datasets:
 
 | Attribute | Description                      |
 |-----------|----------------------------------|
-| id        | Unique ID per quote              |
-| quote     | The quote itself                 |
-| author    | The originator of the quote      |
-| series    | The series the quote was told in |
+| `id`        | Unique ID per quote              |
+| `quote`     | The quote itself                 |
+| `author`    | The originator of the quote      |
+| `series`    | The series the quote was told in |
 
 ---
 
@@ -50,14 +50,14 @@ There are 4 datasets:
 
 | Attribute        | Description                                            |
 |------------------|--------------------------------------------------------|
-| id               | Unique ID per death                                    |
-| death            | Name of deceased individual                            |
-| cause            | How the character met their demise                     |
-| responsible      | The person(s) responsible or affiliated with the death |
-| last_words       | The famous last words!                                 |
-| season           | The season the death occured in                        |
-| episode          | The episode of the season                              |
-| number_of_deaths | Number of deaths that occured for this instance        |
+| `id`               | Unique ID per death                                    |
+| `death`            | Name of deceased individual                            |
+| `cause`            | How the character met their demise                     |
+| `responsible`      | The person(s) responsible or affiliated with the death |
+| `last_words`       | The famous last words!                                 |
+| `season`           | The season the death occured in                        |
+| `episode`          | The episode of the season                              |
+| `number_of_deaths` | Number of deaths that occured for this instance        |
 
 ---
 
